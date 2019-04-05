@@ -4,4 +4,4 @@ This repository contains the solution to the Holiday Extras GmbH Flickr API task
 
 ## Live version at
 
-https://flickr-task.netlify.com/
+https://flickr-task-eduard-chirila.netlify.com/
