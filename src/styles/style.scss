@@ -1,0 +1,34 @@
+$gray: #ccc;
+$black: #000;
+
+a {
+    color: $black!important
+}
+
+.spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tags {
+    color: #686868;
+    font-size: 0.95rem!important
+}
+
+.card {
+    padding: 5px;
+    box-shadow: 1px 1px $gray;
+    border-radius: .5rem!important
+}
+
+.img-container {
+    position: relative
+}
+
+.img-container img {
+    position: absolute;
+    top: 0;
+    left: 0
+}
